@@ -1,5 +1,5 @@
 # PAGASA Parser
-The PAGASA Parser project is a volunteer-run effort to provide parsers and archivers in an attempt to make Philippine Atmospheric, Geophysical and Astronomical Serivces Adminstration (PAGASA) Tropical Cyclone Bulletins (TCB) machine-readable and usable.
+The PAGASA Parser project is a volunteer-run effort to provide parsers and archivers in an attempt to make Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) Tropical Cyclone Bulletins (TCB) machine-readable and usable.
 
 This project is volunteer-driven and not affiliated with the PAGASA.
 
